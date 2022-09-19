@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  compress: false,
   experimental: {
     newNextLinkBehavior: true,
     scrollRestoration: true,
@@ -11,6 +11,7 @@ const nextConfig = {
   images: {
     domains: ['static.shuffle.dev'],
   },
+  reactStrictMode: true,
 }
 
 module.exports = nextConfig
