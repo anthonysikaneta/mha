@@ -1,0 +1,183 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Lifeline/Childline",
+      "logo": "/images/logos/logo-lifeline-childline_67b0f946.svg",
+      "hours": "9am - 5pm",
+      "cover": "/images/members/6E0B778B-BDB4-443D-B25B-3FE8E882521C-min.jpeg",
+      "about": "LifeLine/ChildLine Zambia is a non-governmental organization that provides counseling, guidance and referral services to women and girls who have faced gender-based violence (GBV) and emotional abuse. We are affiliated to Child Helpline International, a global network of telephone and outreach services for children and young people and Lifeline International which promotes mental health and suicide prevention.",
+      "vision": "To see every child and adult live in a family and community with security, respect and care: A Zambian society free of violence.",
+      "source": "Lifeline/Childline ",
+      "background": "Existent since 2003, Lifeline/Childline conducts primarily telephone counseling, guidance and referral services on various social and health problems that affect the Zambian Community through toll free numbers 116 Child helpline and 933 Gender Based Violence Line. We offer 24/7/365 telephone counseling and outreach services for children and adults that face challenges visa-vis Child Abuse. Child Marriage, Child On-line Protection, Child Labour and Gender-Based Violence, HIV/AIDS counseling.",
+      "secondaryImage": "images/members/C14C0509-8611-468A-85B6-9BAA64761E6C-min.jpeg",
+      "caption": "We have a 24/7 dedicated and active call center to assist you with whatever you need. Whenever you need it.",
+      "primaryCaption": "To protect, empower and support vulnerable groups, especially women and children in our society, to live a life free of all forms of gender-based violence.",
+      "services": {
+        "Services": {
+          "We offer 24/7/365 telephone counseling and outreach services for children and adults that face challenges visa-vis Child Abuse.": 1,
+          "Referral and linkage Services. Linking you to the necessary help you may need": 2,
+          "Child Marriage, Child On-line Protection, Child Labour and Gender-Based Violence, HIV/AIDS counselling.": 3,
+          "Keeping boys and girls safe from online abuse.": 4,
+          "Suicide prevention.": 5,
+          "Keeping the girl child in school.": 6
+        }
+      },
+      "email": "",
+      "phoneNumbers": ["+260977848518", "+26011231631"],
+      "office": "Plot 33 Joseph Mwilwa Road Rhodespark, Lusaka, Zambia",
+      "conclusion": "We commit to do all we can to promote and facilitate an environment where women and children live in security, respect and care. We believe treating every child and woman with respect and care and we practice what we preach by seeking ways to pursue it for ourselves and others.",
+      "socials": {
+        "facebook": "https://www.facebook.com/lifelinechildzambia"
+      },
+      "website": "https://clzambia.org/"
+    },
+    {
+      "id": 2,
+      "name": "Serenity Wellness Center",
+      "logo": "/images/logos/serenity.jpeg",
+      "hours": "9am - 5pm",
+      "cover": "/images/members/6E06A360-A50C-409C-89B9-BF05FEB324F3-min.jpeg",
+      "about": "Serenity Wellness Center (SWC) is a non-profit mental health institution established as a social enterprise under the auspices of the Capuchin Franciscan Order in Zambia. It is registered as a company limited by guarantee in response to emerging mental health challenges in Zambia especially harmful use of alcohol and other substances among the most productive population and the youth.",
+      "vision": "To promote optimal mental health through culturally adapted therapeutic, educational and support services at all levels.",
+      "source": "Serenity Wellness Center",
+      "background": "SWC is a member of the Psychology Association of Zambia (PAZ). We focus on the provision of drug addiction counseling, mental We focus on the provision of drug addiction counselling, mental health related services to the community. Some psychological interventions we use include Trauma-Focused Cognitive Behavioural Therapy (TF-CBT), Cognitive Behavioural Therapy (CBT) and Common Elements Trans-diagnostic Approaches (CETA). Well-trained and experienced personnel apply these interventions in therapy sessions with individuals, groups, families and communities. Serenity Wellness is dedicated to helping individuals lead mentally healthy lives. We believe that to achieve optimal health we must make a commitment to care for mind, body, and spirit. Often, we take care of our physical needs yet, when it comes to taking care of our minds, we often dismiss the importance. When we ignore our mental health, we overlook the very part of us that helps us to know and achieve self-actualization.",
+      "secondaryImage": "images/members/8AB2371A-E39F-422D-ADA4-ACBBDC670825-min.jpeg",
+      "caption": "A place of peace and serenity",
+      "services": {
+        "Individual Therapy": {
+          "Individual or one-on-one therapy involves the client working through their problem with a trained mental health worker in a safe, caring and confidential environment.": 1
+        },
+        "Group Services": {
+          "This is a form of therapy where one or more mental health workers work with a group of clients to address issues that are common to group members.": 1
+        },
+        "Family Services": {
+          "The family is the building block of society, therefore interventions within the family have the potential to address underlying social problems.": 1
+        },
+        "Residential Treatment and Recovery Program": {
+          "Residential Treatment and Recovery Program is a long-term, community-reintegration treatment approach offering a full continuum of care for anyone suffering from addiction, substance use disorder, or co-occurring disorders.": 1,
+          "Configuring your export settings": 2,
+          "Minifying and removing metadata": 3
+        },
+        "Employee Wellness Programs (EWP)": {
+          "": 1
+        },
+        "Consultancy, Outreach and Training Services": {
+          "": 1
+        },
+        "Therapy and Counselling": {
+          "Couple therapy, adoption counseling, transition counselling in the event of divorce, bereavement, financial crisis, legal crisis, major illnesses, etc.": 1
+        }
+      },
+      "email": "serenitywcenter@gmail.com ",
+      "phoneNumbers": ["+260979979318", "+260977639822"],
+      "office": "220C Mutandwa Road, Roma Post Net 398, Arcades, Lusaka-Zambia",
+      "socials": {
+        "facebook": "https://www.facebook.com/swczambia"
+      },
+      "website": "https://www.serenitywellnesscenter.org/"
+    },
+    {
+      "id": 3,
+      "name": "Strong Minds",
+      "logo": "/images/logos/strong_minds.jpeg",
+      "hours": "9am - 5pm",
+      "cover": "https://static.shuffle.dev/uploads/files/a0/a052b7776d6259e1056b0969397c5c449d9ff72a/3E1A0861-min.jpg",
+      "about": "Strong Minds is an international NGO founded in 2013 with the mission of treating depression in women and adolescent girls in sub-Saharan Africa. StrongMinds Zambia was founded in 2019. It is governed by a local board of directors and operates in 27 districts across the country.",
+      "mission": "Treating Depression In Women And Adolescents In Zambia",
+      "vision": "To treat depression by providing free group talk therapy to low-income and marginalized women and adolescents in sub-Saharan Africa.",
+      "source": "Strong Minds",
+      "background": "Depression is a disease that disables more people in sub-Saharan Africa than HIV/AIDS, cancer, or heart disease. This illness can endure for weeks months, or even years. Symptoms include extreme fatigue, inability to concentrate or make decisions, feelings of guilt or anxiety, and a general loss of interest in life.Women are twice as likely as men to suffer from depression, and they often experience their first depressive episode in adolescence. Without treatment, the effects can be devastating: a woman with depression, compared to her healthy peers, is less productive, has a lower income, and poorer physical health. If she is a mother, her children are more likely to have poor health, struggle in or miss school, and suffer from depression themselves.",
+      "secondaryImage": "https://static.shuffle.dev/uploads/files/a0/a052b7776d6259e1056b0969397c5c449d9ff72a/3E1A1734-min.jpg",
+      "paragraphed": true,
+      "services": {
+        "Services": {
+          "Strong Minds treats depression by providing free, group talk therapy to low-income and marginalized women and adolescents in sub-Saharan Africa. Groups are run by lay community health workers and are offered in-person and by phone (teletherapy). In therapy groups, participants examine their depression symptoms, along with the triggers and events associated with their moods. They work together to strategize solutions to their problems. Groups meet 1-2 times per week for a total of 8-10 sessions.": 1,
+          "In therapy groups, participants examine their depression symptoms, along with the triggers and events associated with their moods. They work together to strategize solutions to their problems. Groups meet 1-2 times per week for a total of 8-10 sessions.": 1
+        }
+      },
+      "email": "info@strongminds.org",
+      "phoneNumbers": ["+260964635602"],
+      "office": "Physical: 11 Katemo Road,Rhodes Park, Lusaka",
+      "socials": {
+        "facebook": "https://www.facebook.com/makestrongminds",
+        "instagram": "https://www.instagram.com/makestrongminds",
+        "twitter": "https://twitter.com/MakeStrongMinds"
+      },
+      "website": "https://strongminds.org/"
+    },
+    {
+      "id": 4,
+      "name": "Walk With Me Foundation",
+      "logo": "/images/logos/walk_with_me.jpeg",
+      "hours": "9am - 5pm",
+      "cover": "https://static.shuffle.dev/uploads/files/7d/7dacda21bb0e9bf163913ad52ed6df14b18c65f7/121649010-654004125542916-1348248524883031978-n.jpg",
+      "about": "Walk with Me Foundation is a community-based nonprofit dedicated to addressing the growing mental health challenges across the globe and improving the overall well-being of Zambians. We are driven by our passion, commitment to service and the need to promote mental health for wellness, prevention, early detection and holistic treatment of all mental health problems. Having started as a small social media page with less than 200 followers and only two members in 2016, Walk with me foundation has grown to having over 220 members, 36 volunteers and a collective impact of over 2500 people.",
+      "mission": "To create a World where mental health is given equal priority to physical health and people affected by mental illness live a fruitful and fulfilling life without fear of being stigmatized against.",
+      "vision": "Our vision is of a World where mental health is given equal priority to physical health and people affected by mental illness live a fruitful and fulfilling life without fear of being stigmatized against.",
+      "source": "Walk with me Foundation",
+      "background": "",
+      "secondaryImage": "https://static.shuffle.dev/uploads/files/7d/7dacda21bb0e9bf163913ad52ed6df14b18c65f7/team-1.jpg",
+      "caption": "",
+      "titled": true,
+      "services": {
+        "Awareness": {
+          "Walk with me foundation is one of the leading mental health awareness nonprofits in Zambia. We create awareness through our various awareness events and campaigns that continuously fight stigma and promote understanding by creating visibility and getting the conversation around mental health going.": 1
+        },
+        "Advocacy": {
+          "At WWMF we believe in fairness to all and strong institutions, this is why advocacy is a big part of our work. We advocate for better policies, good governance and quality health care for people living with mental illness, their families and communities. We do this through constant engagement with policy makers and influencers; and by always keeping in touch with community needs.": 1
+        },
+        "Education": {
+          "As an organization with the fight against stigma and encouraging early detection and treatment as our priorities, it's important to educate the community about mental health and it's associated challenges. Through our awareness and education programs, we ensure communities have access to easy to read and understand information on mental health and mental health disorders.": 1
+        },
+        "Support": {
+          "Walk with me foundation is passionate about providing a listening ear and a support system for people in mental health crisis. Through our online support, monthly peer support group meetings and emergency phone lines, our dedicated Volunteers are always available to Provide information and support.": 1
+        }
+      },
+      "email": "",
+      "phoneNumbers": ["+260961877947", "+260967922945"],
+      "office": "",
+      "socials": {
+        "facebook": "https://www.facebook.com/walkwithmezm"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Mind Care",
+      "hours": "9am - 5pm",
+      "cover": "https://static.shuffle.dev/uploads/files/7d/7dacda21bb0e9bf163913ad52ed6df14b18c65f7/Image-from-iOS-12.jpg",
+      "about": "A small group of students from the Copperbelt University came together and begun a Campaign with an Objective to provide help and support to anyone experiencing a Mental Health problem. To help them achieve a good Physical and Mental Wellbeing as well as to challenge any stigma by promoting a Positive attitude towards Mental Health. The Campaign was launched on Social Media Platforms late 2018 and has since grown beyond the Copperbelt University Walls to various other Communities and Institutions in different parts of the Country e.g Unza, ZCAS, Cavendish University and NIPA. MindCare is the name of the team which was Founded and Headed by Chama Chola and is operated alongside her Executive whose Core Values are Passion, Love, Teamwork, Excellence and Innovation.",
+      "mission": "We don't mind at all!",
+      "vision": "To help every individual achieve a good Physical and Mental Wellbeing as well as to challenge any stigma by promoting a Positive attitude towards Mental Health.",
+      "source": "Mind Care",
+      "background": "",
+      "secondaryImage": "https://static.shuffle.dev/uploads/files/7d/7dacda21bb0e9bf163913ad52ed6df14b18c65f7/Image-from-iOS-6.jpg",
+      "caption": "Help stop the stigma surrounding Mental illnesses",
+      "primaryCaption": "Mental health includes our emotional, psychological and social well-being. It affects how we think, feel and act. It also helps determine how we handle stress, relate to others and make choices. Mental health illness is something that disrupts your mental state and interrupts how you feel, think communicate and behave. Classes of Mental Health Illnesses are in various forms and can affect anybody.",
+      "services": {
+        "Objectives": {
+          "Raise awareness on Mental Health and all related illnesses": 1,
+          "Provide proper Mental Health Care and Services.": 2,
+          "Work hand in hand with Various Institutions and Individuals with similar Values and Goals.": 3,
+          "Help stop the stigma surrounding Mental illnesses": 4,
+          "Provide Platforms and Centres to help people invest in their Talents and Mental Well-being": 5
+        },
+        "Activities": {
+          "Mental health talks": 1,
+          "Empowerment sessions": 2,
+          "Therapy Wednesday sessions": 3,
+          "Radio and TV Interviews": 4,
+          "Student Orientation and Awareness": 5,
+          "Counseling": 6
+        }
+      },
+      "email": "chamachola97@gmail.com",
+      "phoneNumbers": ["+260975093989", "+260979212898"],
+      "office": "",
+      "socials": {
+        "facebook": "https://www.facebook.com/mindcarezambia"
+      },
+      "website": "https://chamachola.wordpress.com/"
+    }
+  ]
+}
